@@ -1,0 +1,25 @@
+{
+  "name": "cell-range",
+  "version": "0.0.0",
+  "description": "Specify a range of vectors and get a list of all the points between them",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/cell-range"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "readmeFilename": "README.md",
+  "keywords": [
+    "range",
+    "cells",
+    "arrays",
+    "vectors"
+  ]
+}
